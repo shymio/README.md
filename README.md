@@ -1,6 +1,6 @@
 # Hi there! 🦑
 
-Welcome to my GitHub profile! I'm a **Backend Java Developer** passionate about building robust and scalable applications. Here, you'll find some of the projects I've been working on, showcasing my skills and interests.
+I'm a **Backend Java Developer** passionate about building robust and scalable applications. Here, you'll find some of the projects I've been working on, showcasing my skills and interests.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shymio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=white&hide_border=true&order=2&custom_title=:)" height="150" alt="languages graph" />
